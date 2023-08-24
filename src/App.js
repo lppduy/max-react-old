@@ -32,3 +32,6 @@ function App() {
 }
 
 export default App;
+
+// rfc -> decla
+// rafce -> arrow
